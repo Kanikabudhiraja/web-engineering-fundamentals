@@ -1,22 +1,22 @@
-# 🚀 SEO-Optimized Multi-Page Portfolio with Accessible Contact Form
+#  SEO-Optimized Multi-Page Portfolio with Accessible Contact Form
 
-## 📖 Project Overview
+##  Project Overview
 
 This project is a responsive and SEO-friendly personal portfolio website developed using **HTML5, CSS3, and JavaScript**. The website demonstrates modern web development practices including semantic HTML, accessibility standards, search engine optimization (SEO), and client-side form validation.
 
 The portfolio consists of three interconnected pages:
 
-- 🏠 Home Page
-- 💼 Projects Page
-- 📩 Contact Page
+- Home Page
+- Projects Page
+- Contact Page
 
 The project is designed to showcase personal information, technical skills, projects, and provide an accessible contact form for user interaction.
 
 ---
 
-# ✨ Features
+#  Features
 
-## 🌐 HTML5 & Semantic Structure
+##  HTML5 & Semantic Structure
 
 The website uses semantic HTML5 elements to improve accessibility, readability, and SEO.
 
@@ -31,7 +31,7 @@ The website uses semantic HTML5 elements to improve accessibility, readability, 
 
 ---
 
-## ♿ Accessibility Features
+##  Accessibility Features
 
 The project follows accessibility best practices to ensure usability for all users.
 
@@ -48,7 +48,7 @@ The project follows accessibility best practices to ensure usability for all use
 
 ---
 
-## 🔍 SEO Optimization
+##  SEO Optimization
 
 The website is optimized for search engines using:
 
@@ -63,7 +63,7 @@ These techniques help improve discoverability and social media sharing.
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The portfolio is fully responsive and adapts to:
 
@@ -79,7 +79,7 @@ The portfolio is fully responsive and adapts to:
 
 ---
 
-## ✅ Contact Form Validation
+##  Contact Form Validation
 
 The contact form includes client-side validation using JavaScript.
 
@@ -92,7 +92,7 @@ The contact form includes client-side validation using JavaScript.
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 ## Frontend Technologies
 
@@ -112,7 +112,7 @@ The contact form includes client-side validation using JavaScript.
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 portfolio/
@@ -135,9 +135,9 @@ portfolio/
 
 ---
 
-# 📄 Pages Description
+#  Pages Description
 
-## 🏠 Home Page
+##  Home Page
 
 The home page introduces the portfolio owner and includes:
 
@@ -149,7 +149,7 @@ The home page introduces the portfolio owner and includes:
 
 ---
 
-## 💼 Projects Page
+##  Projects Page
 
 The projects page showcases selected academic and technical projects.
 
@@ -162,7 +162,7 @@ The projects page showcases selected academic and technical projects.
 
 ---
 
-## 📩 Contact Page
+##  Contact Page
 
 The contact page provides an accessible form where users can enter:
 
@@ -175,7 +175,7 @@ Form validation is performed before submission.
 
 ---
 
-# ♿ Accessibility Implementation
+#  Accessibility Implementation
 
 The following accessibility practices have been implemented:
 
@@ -189,7 +189,7 @@ The following accessibility practices have been implemented:
 
 ---
 
-# 🔎 SEO Implementation
+#  SEO Implementation
 
 The project includes:
 
@@ -202,7 +202,7 @@ These practices improve search engine visibility and content indexing.
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
 Potential future improvements include:
 
@@ -217,15 +217,15 @@ Potential future improvements include:
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Kanika**  
-🎓 B.Tech Computer Science Engineering (4th Year)  
-🏫 Geeta University
+ B.Tech Computer Science Engineering (4th Year)  
+ Geeta University
 
 ---
 
-# 📌 Conclusion
+#  Conclusion
 
 This project demonstrates the implementation of modern frontend development practices with a strong focus on:
 
@@ -239,4 +239,4 @@ It serves as both an academic assignment and a professional portfolio foundation
 
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub.
+ If you found this project useful, consider giving it a star on GitHub.
